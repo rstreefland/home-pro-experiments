@@ -5,7 +5,7 @@ The instructions here assume that you've already completed the setup documented 
 
 1. SSH into the home pro `ssh hpro-sdk`
 2. Install git `apt update && apt -y install git`
-3. Clone this repo `git clone git@github.com:rstreefland/home-pro-experiments.git`
+3. Clone this repo `git clone https://github.com/rstreefland/home-pro-experiments.git`
 
 ## Carbon Intensity
 
