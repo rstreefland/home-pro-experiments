@@ -11,7 +11,11 @@ The instructions here assume that you've already completed the setup documented 
 
 This script fetches the current carbon intensity of the UK electricity grid from the [Carbon Intensity API](https://carbonintensity.org.uk/)
 every 10 minutes and displays it on the Home Pro's 24x12 LED Matrix. It renders the text as a bitmap using the included
-[lexis font](https://github.com/damianvila/font-lexis) with the largest size that fits on the display.
+[IBM BIOS 8x8 font](https://int10h.org/oldschool-pc-fonts/fontlist/font?ibm_bios) with the largest size that fits on the display.
+
+To install the dependencies:
+
+```pip install -r requirements.txt```
 
 To run at startup, add the following line to your `startup.sh` file:
 

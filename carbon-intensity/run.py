@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw, ImageFont
 import schedule
 import time
 
-def text_to_bitmap(text, brightness=255, font_file="lexis.ttf"):
+def text_to_bitmap(text, brightness=255, font_file="MxPlus_IBM_BIOS.ttf"):
     width=24
     height=12
 
