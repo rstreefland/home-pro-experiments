@@ -9,7 +9,7 @@ The instructions here assume that you've already completed the setup documented 
 
 ## Carbon Intensity
 
-![carbon_intensity](https://github.com/rstreefland/home-pro-experiments/assets/972022/279a42a5-12eb-4946-b6c8-18ac1f9cfe2a)
+<img src="https://github.com/rstreefland/home-pro-experiments/assets/972022/279a42a5-12eb-4946-b6c8-18ac1f9cfe2a" width="300px" alt="carbon_intensity"/>
 
 This script fetches the current carbon intensity of the UK electricity grid from the [Carbon Intensity API](https://carbonintensity.org.uk/)
 every 10 minutes and displays it on the Home Pro's 24x12 LED Matrix. It renders the text as a bitmap using the included
