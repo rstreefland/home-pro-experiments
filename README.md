@@ -15,5 +15,5 @@ every 10 minutes and displays it on the Home Pro's 24x12 LED Matrix. It renders 
 
 To run at startup, add the following line to your `startup.sh` file:
 
-```nohup python3 /root/home-pro-experiments/carbon-intensity/run.py &```
+```nohup python3 /root/home-pro-experiments/carbon-intensity/run.py >/dev/null 2>&1 &```
 
