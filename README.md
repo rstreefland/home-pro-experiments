@@ -21,5 +21,5 @@ To install the dependencies:
 
 To run at startup, add the following line to your `startup.sh` file:
 
-```nohup python3 /root/home-pro-experiments/carbon-intensity/run.py >/dev/null 2>&1 &```
+```nohup python3 /root/home-pro-experiments/carbon-intensity/run.py &```
 
